@@ -1,0 +1,11 @@
+Log file status checked - Opened
+Collecting Started
+Measurement Taken: 203
+Measurement Taken: 1294
+Measurement Taken: 857
+Measurement Taken: 622
+Measurement Taken: 891
+Measurement Taken: 17
+Measurement Taken: 350
+Collecting Stopped
+Object Disposed
